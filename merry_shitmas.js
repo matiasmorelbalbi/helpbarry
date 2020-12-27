@@ -3,36 +3,36 @@
 var p; // shortcut to reference prototypes
 var lib={};var ss={};var img={};
 lib.ssMetadata = [
-		{name:"help_barry_atlas_", frames: [[467,0,466,407],[0,0,465,408]]},
-		{name:"help_barry_atlas_2", frames: [[468,0,431,432],[0,0,466,407]]},
-		{name:"help_barry_atlas_3", frames: [[0,0,435,410],[437,0,435,410]]},
-		{name:"help_barry_atlas_4", frames: [[0,0,435,410],[437,0,435,410]]},
-		{name:"help_barry_atlas_5", frames: [[0,0,435,410],[437,0,435,410]]},
-		{name:"help_barry_atlas_6", frames: [[437,0,433,410],[0,0,435,410]]},
-		{name:"help_barry_atlas_7", frames: [[440,0,438,398],[0,0,438,398]]},
-		{name:"help_barry_atlas_8", frames: [[0,0,438,398],[440,0,438,398]]},
-		{name:"help_barry_atlas_9", frames: [[440,0,438,398],[0,0,438,398]]},
-		{name:"help_barry_atlas_10", frames: [[0,0,438,398],[440,0,438,398]]},
-		{name:"help_barry_atlas_11", frames: [[0,0,438,398],[440,0,373,467]]},
-		{name:"help_barry_atlas_12", frames: [[437,0,437,366],[0,0,435,394]]},
-		{name:"help_barry_atlas_13", frames: [[0,0,425,369],[427,0,400,389]]},
-		{name:"help_barry_atlas_14", frames: [[416,0,410,376],[0,0,414,374]]},
-		{name:"help_barry_atlas_15", frames: [[0,0,395,384],[397,0,423,342]]},
-		{name:"help_barry_atlas_16", frames: [[0,0,451,320],[453,0,451,320]]},
-		{name:"help_barry_atlas_17", frames: [[0,0,266,529],[268,0,436,320]]},
-		{name:"help_barry_atlas_18", frames: [[640,0,256,529],[359,0,279,489],[0,0,357,387]]},
-		{name:"help_barry_atlas_19", frames: [[281,0,277,477],[0,0,279,482]]},
-		{name:"help_barry_atlas_20", frames: [[432,0,248,505],[0,0,430,301],[682,0,265,470]]},
-		{name:"help_barry_atlas_21", frames: [[586,0,234,506],[0,0,237,523],[239,0,345,358]]},
-		{name:"help_barry_atlas_22", frames: [[478,0,254,445],[0,0,237,497],[239,0,237,497],[734,0,224,480]]},
-		{name:"help_barry_atlas_23", frames: [[0,0,943,102],[472,104,310,272],[0,104,234,388],[236,104,234,388]]},
-		{name:"help_barry_atlas_24", frames: [[0,0,310,272],[728,0,204,388],[520,0,206,388],[312,0,206,388]]},
-		{name:"help_barry_atlas_25", frames: [[0,226,209,300],[670,0,209,300],[324,0,338,213],[670,302,285,220],[324,215,344,187],[0,0,322,224]]},
-		{name:"help_barry_atlas_26", frames: [[737,0,217,272],[424,201,217,272],[0,187,210,295],[212,187,210,295],[0,0,338,185],[424,0,311,199]]},
-		{name:"help_barry_atlas_27", frames: [[643,264,284,173],[219,280,284,173],[0,274,217,258],[0,0,217,272],[643,0,210,262],[219,0,210,278],[431,0,210,278]]},
-		{name:"help_barry_atlas_28", frames: [[0,0,284,173],[0,175,284,173],[0,407,408,75],[654,233,273,106],[654,341,269,99],[410,464,419,70],[286,0,283,172],[286,174,182,231],[755,0,182,229],[571,0,182,231],[470,233,182,229]]},
-		{name:"help_barry_atlas_29", frames: [[91,352,118,180],[221,176,132,140],[91,176,128,174],[211,411,132,110],[741,372,79,168],[822,252,102,128],[221,0,120,174],[91,0,128,174],[345,411,160,86],[211,352,369,57],[343,0,117,139],[806,132,114,118],[507,411,116,118],[688,132,116,118],[582,252,114,118],[625,372,114,118],[698,252,114,118],[575,0,111,132],[462,0,111,135],[468,137,112,131],[802,0,112,130],[822,382,111,117],[355,141,111,135],[688,0,112,130],[0,0,89,257],[0,259,89,257]]},
-		{name:"help_barry_atlas_30", frames: [[376,279,45,69],[207,288,45,69],[522,291,45,69],[569,291,45,69],[747,292,45,69],[794,292,45,69],[73,294,45,69],[120,294,45,69],[423,300,45,69],[470,300,45,69],[0,307,45,69],[254,333,45,69],[301,333,45,69],[841,341,45,69],[888,341,45,69],[616,343,45,69],[550,0,77,130],[348,393,75,15],[74,404,68,10],[74,387,54,7],[0,213,71,92],[652,192,116,79],[0,0,112,115],[114,0,111,113],[227,0,111,113],[131,384,78,18],[554,132,67,35],[447,100,71,27],[507,386,71,18],[0,387,72,17],[663,393,65,16],[663,343,73,25],[663,370,69,21],[348,350,68,19],[430,392,73,16],[299,279,75,52],[734,385,68,20],[554,169,71,21],[167,359,79,23],[348,371,80,20],[738,363,82,20],[47,365,82,20],[517,362,75,22],[629,0,105,94],[736,0,105,94],[843,0,105,94],[629,96,105,94],[736,96,105,94],[843,96,105,94],[340,100,105,94],[114,115,105,94],[221,115,105,94],[0,117,105,94],[447,132,105,94],[652,273,93,68],[770,192,93,98],[865,192,92,75],[207,211,90,75],[340,0,103,98],[445,0,103,98],[554,192,96,97],[428,228,92,70],[865,269,92,70],[328,196,98,81],[107,211,98,81],[430,371,75,19]]}
+		{name:"merry_shitmas_atlas_", frames: [[467,0,466,407],[0,0,465,408]]},
+		{name:"merry_shitmas_atlas_2", frames: [[468,0,431,432],[0,0,466,407]]},
+		{name:"merry_shitmas_atlas_3", frames: [[0,0,435,410],[437,0,435,410]]},
+		{name:"merry_shitmas_atlas_4", frames: [[0,0,435,410],[437,0,435,410]]},
+		{name:"merry_shitmas_atlas_5", frames: [[0,0,435,410],[437,0,435,410]]},
+		{name:"merry_shitmas_atlas_6", frames: [[437,0,433,410],[0,0,435,410]]},
+		{name:"merry_shitmas_atlas_7", frames: [[0,0,438,398],[440,0,438,398]]},
+		{name:"merry_shitmas_atlas_8", frames: [[0,0,438,398],[440,0,438,398]]},
+		{name:"merry_shitmas_atlas_9", frames: [[0,0,438,398],[440,0,438,398]]},
+		{name:"merry_shitmas_atlas_10", frames: [[0,0,438,398],[440,0,438,398]]},
+		{name:"merry_shitmas_atlas_11", frames: [[0,0,438,398],[440,0,373,467]]},
+		{name:"merry_shitmas_atlas_12", frames: [[437,0,437,366],[0,0,435,394]]},
+		{name:"merry_shitmas_atlas_13", frames: [[0,0,425,369],[427,0,400,389]]},
+		{name:"merry_shitmas_atlas_14", frames: [[416,0,410,376],[0,0,414,374]]},
+		{name:"merry_shitmas_atlas_15", frames: [[0,0,395,384],[397,0,423,342]]},
+		{name:"merry_shitmas_atlas_16", frames: [[0,0,451,320],[453,0,451,320]]},
+		{name:"merry_shitmas_atlas_17", frames: [[0,0,266,529],[268,0,436,320]]},
+		{name:"merry_shitmas_atlas_18", frames: [[640,0,256,529],[359,0,279,489],[0,0,357,387]]},
+		{name:"merry_shitmas_atlas_19", frames: [[281,0,277,477],[0,0,279,482]]},
+		{name:"merry_shitmas_atlas_20", frames: [[432,0,248,505],[0,0,430,301],[682,0,265,470]]},
+		{name:"merry_shitmas_atlas_21", frames: [[586,0,234,506],[0,0,237,523],[239,0,345,358]]},
+		{name:"merry_shitmas_atlas_22", frames: [[478,0,254,445],[0,0,237,497],[239,0,237,497],[734,0,224,480]]},
+		{name:"merry_shitmas_atlas_23", frames: [[0,0,943,102],[472,104,310,272],[0,104,234,388],[236,104,234,388]]},
+		{name:"merry_shitmas_atlas_24", frames: [[0,0,310,272],[728,0,204,388],[312,0,206,388],[520,0,206,388]]},
+		{name:"merry_shitmas_atlas_25", frames: [[0,226,209,300],[670,0,209,300],[324,0,338,213],[670,302,285,220],[324,215,344,187],[0,0,322,224]]},
+		{name:"merry_shitmas_atlas_26", frames: [[737,0,217,272],[424,201,217,272],[0,187,210,295],[212,187,210,295],[0,0,338,185],[424,0,311,199]]},
+		{name:"merry_shitmas_atlas_27", frames: [[219,280,284,173],[643,264,284,173],[0,274,217,258],[0,0,217,272],[643,0,210,262],[219,0,210,278],[431,0,210,278]]},
+		{name:"merry_shitmas_atlas_28", frames: [[0,175,284,173],[0,0,284,173],[0,407,408,75],[654,233,273,106],[654,341,269,99],[410,464,419,70],[286,0,283,172],[286,174,182,231],[755,0,182,229],[571,0,182,231],[470,233,182,229]]},
+		{name:"merry_shitmas_atlas_29", frames: [[91,352,118,180],[221,176,132,140],[91,176,128,174],[211,411,132,110],[741,372,79,168],[822,252,102,128],[221,0,120,174],[91,0,128,174],[345,411,160,86],[211,352,369,57],[343,0,117,139],[806,132,114,118],[507,411,116,118],[688,132,116,118],[582,252,114,118],[625,372,114,118],[698,252,114,118],[575,0,111,132],[355,141,111,135],[468,137,112,131],[688,0,112,130],[822,382,111,117],[462,0,111,135],[802,0,112,130],[0,0,89,257],[0,259,89,257]]},
+		{name:"merry_shitmas_atlas_30", frames: [[254,333,45,69],[301,333,45,69],[841,341,45,69],[888,341,45,69],[616,343,45,69],[794,292,45,69],[73,294,45,69],[120,294,45,69],[423,300,45,69],[470,300,45,69],[0,307,45,69],[376,279,45,69],[207,288,45,69],[522,291,45,69],[569,291,45,69],[747,292,45,69],[550,0,77,130],[348,393,75,15],[74,404,68,10],[74,387,54,7],[0,213,71,92],[652,192,116,79],[0,0,112,115],[114,0,111,113],[227,0,111,113],[131,384,78,18],[554,132,67,35],[447,100,71,27],[507,386,71,18],[0,387,72,17],[663,393,65,16],[663,343,73,25],[663,370,69,21],[348,350,68,19],[430,392,73,16],[299,279,75,52],[734,385,68,20],[554,169,71,21],[167,359,79,23],[348,371,80,20],[738,363,82,20],[47,365,82,20],[517,362,75,22],[629,0,105,94],[736,0,105,94],[843,0,105,94],[629,96,105,94],[736,96,105,94],[843,96,105,94],[340,100,105,94],[114,115,105,94],[221,115,105,94],[0,117,105,94],[447,132,105,94],[652,273,93,68],[770,192,93,98],[865,192,92,75],[207,211,90,75],[445,0,103,98],[340,0,103,98],[554,192,96,97],[428,228,92,70],[865,269,92,70],[328,196,98,81],[107,211,98,81],[430,371,75,19]]}
 ];
 
 
@@ -41,140 +41,140 @@ lib.ssMetadata = [
 
 
 (lib.Bitmap1 = function() {
-	this.initialize(ss["help_barry_atlas_27"]);
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap13 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap14 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap15 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap16 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap17 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap18 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap19 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap2 = function() {
-	this.initialize(ss["help_barry_atlas_27"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["merry_shitmas_atlas_27"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap20 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap21 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap22 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap23 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap3 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["merry_shitmas_atlas_28"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap4 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+	this.initialize(ss["merry_shitmas_atlas_27"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap5 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap6 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap7 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap8 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap9 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
@@ -264,178 +264,178 @@ p.nominalBounds = new cjs.Rectangle(0,0,487,674);
 p.nominalBounds = new cjs.Rectangle(0,0,466,659);
 
 
-(lib.CachedTexturedBitmap_197 = function() {
-	this.initialize(img.CachedTexturedBitmap_197);
+(lib.CachedTexturedBitmap_225 = function() {
+	this.initialize(img.CachedTexturedBitmap_225);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2120,1171);
 
 
-(lib.CachedTexturedBitmap_198 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+(lib.CachedTexturedBitmap_226 = function() {
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_199 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_227 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_200 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_228 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_201 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_229 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_202 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_230 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_203 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_231 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_206 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+(lib.CachedTexturedBitmap_234 = function() {
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_207 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+(lib.CachedTexturedBitmap_235 = function() {
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_208 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+(lib.CachedTexturedBitmap_236 = function() {
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_209 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_237 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_210 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+(lib.CachedTexturedBitmap_238 = function() {
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_211 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_239 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_212 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_240 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_213 = function() {
-	this.initialize(img.CachedTexturedBitmap_213);
+(lib.CachedTexturedBitmap_241 = function() {
+	this.initialize(img.CachedTexturedBitmap_241);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1307,252);
 
 
-(lib.CachedTexturedBitmap_214 = function() {
-	this.initialize(img.CachedTexturedBitmap_214);
+(lib.CachedTexturedBitmap_242 = function() {
+	this.initialize(img.CachedTexturedBitmap_242);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1816,48);
 
 
-(lib.CachedTexturedBitmap_215 = function() {
-	this.initialize(ss["help_barry_atlas_23"]);
+(lib.CachedTexturedBitmap_243 = function() {
+	this.initialize(ss["merry_shitmas_atlas_23"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_216 = function() {
-	this.initialize(img.CachedTexturedBitmap_216);
+(lib.CachedTexturedBitmap_244 = function() {
+	this.initialize(img.CachedTexturedBitmap_244);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,1509,547);
 
 
-(lib.CachedTexturedBitmap_217 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+(lib.CachedTexturedBitmap_245 = function() {
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_218 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+(lib.CachedTexturedBitmap_246 = function() {
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_219 = function() {
-	this.initialize(img.CachedTexturedBitmap_219);
+(lib.CachedTexturedBitmap_247 = function() {
+	this.initialize(img.CachedTexturedBitmap_247);
 }).prototype = p = new cjs.Bitmap();
 p.nominalBounds = new cjs.Rectangle(0,0,2008,1138);
 
 
-(lib.CachedTexturedBitmap_220 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_248 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_221 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+(lib.CachedTexturedBitmap_249 = function() {
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_222 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+(lib.CachedTexturedBitmap_250 = function() {
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_223 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+(lib.CachedTexturedBitmap_251 = function() {
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_224 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+(lib.CachedTexturedBitmap_252 = function() {
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
@@ -448,91 +448,91 @@ p.nominalBounds = new cjs.Rectangle(0,0,1920,1080);
 
 
 (lib.facecopy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.facecopy2 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.facecopy3 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.facecopy4 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.facecopy5 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.facecopy6 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.facecopy7 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.facecopy8 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.headcopy = function() {
-	this.initialize(ss["help_barry_atlas_26"]);
+	this.initialize(ss["merry_shitmas_atlas_26"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.headcopy3 = function() {
-	this.initialize(ss["help_barry_atlas_27"]);
+	this.initialize(ss["merry_shitmas_atlas_27"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.headcopy4 = function() {
-	this.initialize(ss["help_barry_atlas_26"]);
+	this.initialize(ss["merry_shitmas_atlas_26"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.headcopy5 = function() {
-	this.initialize(ss["help_barry_atlas_27"]);
+	this.initialize(ss["merry_shitmas_atlas_27"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.larmcopy = function() {
-	this.initialize(ss["help_barry_atlas_21"]);
+	this.initialize(ss["merry_shitmas_atlas_21"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -569,7 +569,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,111,683);
 
 
 (lib.Layer14copy = function() {
-	this.initialize(ss["help_barry_atlas_17"]);
+	this.initialize(ss["merry_shitmas_atlas_17"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -594,91 +594,91 @@ p.nominalBounds = new cjs.Rectangle(0,0,174,677);
 
 
 (lib.Layer16 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy2 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy3 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy4 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy5 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy6 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy7 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy8 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer16copy9 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer17 = function() {
-	this.initialize(ss["help_barry_atlas_2"]);
+	this.initialize(ss["merry_shitmas_atlas_2"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer18 = function() {
-	this.initialize(ss["help_barry_atlas_12"]);
+	this.initialize(ss["merry_shitmas_atlas_12"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer18copy = function() {
-	this.initialize(ss["help_barry_atlas_13"]);
+	this.initialize(ss["merry_shitmas_atlas_13"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
@@ -703,85 +703,85 @@ p.nominalBounds = new cjs.Rectangle(0,0,196,578);
 
 
 (lib.Layer21 = function() {
-	this.initialize(ss["help_barry_atlas_19"]);
+	this.initialize(ss["merry_shitmas_atlas_19"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer22 = function() {
-	this.initialize(ss["help_barry_atlas_20"]);
+	this.initialize(ss["merry_shitmas_atlas_20"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer22copy = function() {
-	this.initialize(ss["help_barry_atlas_18"]);
+	this.initialize(ss["merry_shitmas_atlas_18"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer23 = function() {
-	this.initialize(ss["help_barry_atlas_11"]);
+	this.initialize(ss["merry_shitmas_atlas_7"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer23copy = function() {
-	this.initialize(ss["help_barry_atlas_9"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["merry_shitmas_atlas_7"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer23copy2 = function() {
-	this.initialize(ss["help_barry_atlas_10"]);
+	this.initialize(ss["merry_shitmas_atlas_8"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer23copy3 = function() {
-	this.initialize(ss["help_barry_atlas_10"]);
+	this.initialize(ss["merry_shitmas_atlas_8"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer23copy4 = function() {
-	this.initialize(ss["help_barry_atlas_7"]);
+	this.initialize(ss["merry_shitmas_atlas_9"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer23copy5 = function() {
-	this.initialize(ss["help_barry_atlas_8"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Layer23copy6 = function() {
-	this.initialize(ss["help_barry_atlas_8"]);
+	this.initialize(ss["merry_shitmas_atlas_9"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.Layer23copy6 = function() {
+	this.initialize(ss["merry_shitmas_atlas_10"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.Layer23copy7 = function() {
-	this.initialize(ss["help_barry_atlas_9"]);
+	this.initialize(ss["merry_shitmas_atlas_10"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer23copy8 = function() {
-	this.initialize(ss["help_barry_atlas_7"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["merry_shitmas_atlas_11"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -895,112 +895,112 @@ p.nominalBounds = new cjs.Rectangle(0,0,1920,1080);
 
 
 (lib.Layer34copy = function() {
-	this.initialize(ss["help_barry_atlas_14"]);
+	this.initialize(ss["merry_shitmas_atlas_14"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer34copy3 = function() {
-	this.initialize(ss["help_barry_atlas_15"]);
+	this.initialize(ss["merry_shitmas_atlas_15"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer35 = function() {
-	this.initialize(ss["help_barry_atlas_17"]);
+	this.initialize(ss["merry_shitmas_atlas_17"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer36 = function() {
-	this.initialize(ss["help_barry_atlas_16"]);
+	this.initialize(ss["merry_shitmas_atlas_16"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer36copy = function() {
-	this.initialize(ss["help_barry_atlas_16"]);
+	this.initialize(ss["merry_shitmas_atlas_16"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer37 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer38 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer39 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer40 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer41 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer43 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer45 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer46 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer47 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer48 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer49 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
@@ -1025,84 +1025,84 @@ p.nominalBounds = new cjs.Rectangle(0,0,463,625);
 
 
 (lib.Layer51 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer52 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer53 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer53copy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer53copy5 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer53copy6 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer54 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer55 = function() {
-	this.initialize(ss["help_barry_atlas_"]);
+	this.initialize(ss["merry_shitmas_atlas_"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer55copy = function() {
-	this.initialize(ss["help_barry_atlas_2"]);
+	this.initialize(ss["merry_shitmas_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer56 = function() {
-	this.initialize(ss["help_barry_atlas_"]);
+	this.initialize(ss["merry_shitmas_atlas_"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer57 = function() {
-	this.initialize(ss["help_barry_atlas_20"]);
+	this.initialize(ss["merry_shitmas_atlas_20"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer58 = function() {
-	this.initialize(ss["help_barry_atlas_15"]);
+	this.initialize(ss["merry_shitmas_atlas_15"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1115,7 +1115,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,104,674);
 
 
 (lib.Layer6 = function() {
-	this.initialize(ss["help_barry_atlas_14"]);
+	this.initialize(ss["merry_shitmas_atlas_14"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1152,364 +1152,364 @@ p.nominalBounds = new cjs.Rectangle(0,0,191,573);
 
 
 (lib.Layer63 = function() {
-	this.initialize(ss["help_barry_atlas_20"]);
+	this.initialize(ss["merry_shitmas_atlas_20"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer64 = function() {
-	this.initialize(ss["help_barry_atlas_22"]);
+	this.initialize(ss["merry_shitmas_atlas_22"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer64copy = function() {
-	this.initialize(ss["help_barry_atlas_21"]);
+	this.initialize(ss["merry_shitmas_atlas_21"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer65 = function() {
-	this.initialize(ss["help_barry_atlas_19"]);
+	this.initialize(ss["merry_shitmas_atlas_19"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer65copy = function() {
-	this.initialize(ss["help_barry_atlas_18"]);
+	this.initialize(ss["merry_shitmas_atlas_18"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer66 = function() {
-	this.initialize(ss["help_barry_atlas_22"]);
+	this.initialize(ss["merry_shitmas_atlas_22"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer66copy = function() {
-	this.initialize(ss["help_barry_atlas_22"]);
+	this.initialize(ss["merry_shitmas_atlas_22"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer67 = function() {
-	this.initialize(ss["help_barry_atlas_22"]);
+	this.initialize(ss["merry_shitmas_atlas_22"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer68 = function() {
-	this.initialize(ss["help_barry_atlas_26"]);
+	this.initialize(ss["merry_shitmas_atlas_26"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer68copy = function() {
-	this.initialize(ss["help_barry_atlas_25"]);
+	this.initialize(ss["merry_shitmas_atlas_25"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer68copy2 = function() {
-	this.initialize(ss["help_barry_atlas_25"]);
+	this.initialize(ss["merry_shitmas_atlas_25"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer68copy3 = function() {
-	this.initialize(ss["help_barry_atlas_26"]);
+	this.initialize(ss["merry_shitmas_atlas_26"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy11 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy2 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy3 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy4 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy5 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy6 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy7 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy8 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer69copy9 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer7 = function() {
-	this.initialize(ss["help_barry_atlas_27"]);
+	this.initialize(ss["merry_shitmas_atlas_27"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer7copy = function() {
-	this.initialize(ss["help_barry_atlas_27"]);
+	this.initialize(ss["merry_shitmas_atlas_27"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer7copy2 = function() {
-	this.initialize(ss["help_barry_atlas_27"]);
+	this.initialize(ss["merry_shitmas_atlas_27"]);
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer70 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer70copy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer71 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer71copy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer72 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer72copy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer73 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer74 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer74copy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer75 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer75copy = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer76copy = function() {
-	this.initialize(ss["help_barry_atlas_23"]);
+	this.initialize(ss["merry_shitmas_atlas_23"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer76copy2 = function() {
-	this.initialize(ss["help_barry_atlas_24"]);
+	this.initialize(ss["merry_shitmas_atlas_24"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer77 = function() {
-	this.initialize(ss["help_barry_atlas_26"]);
+	this.initialize(ss["merry_shitmas_atlas_26"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer77copy = function() {
-	this.initialize(ss["help_barry_atlas_25"]);
+	this.initialize(ss["merry_shitmas_atlas_25"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer78 = function() {
-	this.initialize(ss["help_barry_atlas_11"]);
+	this.initialize(ss["merry_shitmas_atlas_11"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer78copy = function() {
-	this.initialize(ss["help_barry_atlas_26"]);
+	this.initialize(ss["merry_shitmas_atlas_26"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer79 = function() {
-	this.initialize(ss["help_barry_atlas_18"]);
+	this.initialize(ss["merry_shitmas_atlas_18"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer79copy = function() {
-	this.initialize(ss["help_barry_atlas_21"]);
+	this.initialize(ss["merry_shitmas_atlas_21"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer79copy2 = function() {
-	this.initialize(ss["help_barry_atlas_25"]);
+	this.initialize(ss["merry_shitmas_atlas_25"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer80 = function() {
-	this.initialize(ss["help_barry_atlas_25"]);
+	this.initialize(ss["merry_shitmas_atlas_25"]);
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer81 = function() {
-	this.initialize(ss["help_barry_atlas_25"]);
+	this.initialize(ss["merry_shitmas_atlas_25"]);
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer82 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer82copy = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer82copy2 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Layer82copy3 = function() {
-	this.initialize(ss["help_barry_atlas_28"]);
+	this.initialize(ss["merry_shitmas_atlas_28"]);
 	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
@@ -1594,7 +1594,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,471,806);
 
 
 (lib.Layer86 = function() {
-	this.initialize(ss["help_barry_atlas_30"]);
+	this.initialize(ss["merry_shitmas_atlas_30"]);
 	this.gotoAndStop(65);
 }).prototype = p = new cjs.Sprite();
 
@@ -1607,77 +1607,77 @@ p.nominalBounds = new cjs.Rectangle(0,0,2530,1420);
 
 
 (lib.legscopy = function() {
-	this.initialize(ss["help_barry_atlas_6"]);
+	this.initialize(ss["merry_shitmas_atlas_6"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy10 = function() {
-	this.initialize(ss["help_barry_atlas_3"]);
+	this.initialize(ss["merry_shitmas_atlas_3"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy2 = function() {
-	this.initialize(ss["help_barry_atlas_3"]);
+	this.initialize(ss["merry_shitmas_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy3 = function() {
-	this.initialize(ss["help_barry_atlas_4"]);
+	this.initialize(ss["merry_shitmas_atlas_4"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy4 = function() {
-	this.initialize(ss["help_barry_atlas_4"]);
+	this.initialize(ss["merry_shitmas_atlas_4"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy5 = function() {
-	this.initialize(ss["help_barry_atlas_5"]);
+	this.initialize(ss["merry_shitmas_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy6 = function() {
-	this.initialize(ss["help_barry_atlas_12"]);
+	this.initialize(ss["merry_shitmas_atlas_12"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy7 = function() {
-	this.initialize(ss["help_barry_atlas_5"]);
+	this.initialize(ss["merry_shitmas_atlas_5"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.legscopy9 = function() {
-	this.initialize(ss["help_barry_atlas_6"]);
+	this.initialize(ss["merry_shitmas_atlas_6"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.light = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.lightcopy = function() {
-	this.initialize(ss["help_barry_atlas_24"]);
+	this.initialize(ss["merry_shitmas_atlas_24"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -1728,13 +1728,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,521,926);
 (lib.lightcopy18 = function() {
 	this.initialize(img.lightcopy18);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,483,802);
+p.nominalBounds = new cjs.Rectangle(0,0,341,802);
 
 
 (lib.lightcopy19 = function() {
 	this.initialize(img.lightcopy19);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,500,931);
+p.nominalBounds = new cjs.Rectangle(0,0,371,931);
 
 
 (lib.lightcopy2 = function() {
@@ -1746,13 +1746,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,308,782);
 (lib.lightcopy20 = function() {
 	this.initialize(img.lightcopy20);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,500,932);
+p.nominalBounds = new cjs.Rectangle(0,0,373,932);
 
 
 (lib.lightcopy21 = function() {
 	this.initialize(img.lightcopy21);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,465,928);
+p.nominalBounds = new cjs.Rectangle(0,0,338,928);
 
 
 (lib.lightcopy22 = function() {
@@ -1764,7 +1764,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,450,807);
 (lib.lightcopy23 = function() {
 	this.initialize(img.lightcopy23);
 }).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,480,825);
+p.nominalBounds = new cjs.Rectangle(0,0,342,825);
 
 
 (lib.lightcopy24 = function() {
@@ -1774,14 +1774,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,521,808);
 
 
 (lib.lightcopy26 = function() {
-	this.initialize(ss["help_barry_atlas_24"]);
+	this.initialize(ss["merry_shitmas_atlas_24"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.lightcopy28 = function() {
-	this.initialize(ss["help_barry_atlas_29"]);
+	this.initialize(ss["merry_shitmas_atlas_29"]);
 	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
@@ -1812,28 +1812,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,388,827);
 
 
 (lib.lightcopy7 = function() {
-	this.initialize(ss["help_barry_atlas_23"]);
+	this.initialize(ss["merry_shitmas_atlas_23"]);
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.lightcopy8 = function() {
-	this.initialize(ss["help_barry_atlas_23"]);
+	this.initialize(ss["merry_shitmas_atlas_23"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.lightcopy9 = function() {
-	this.initialize(ss["help_barry_atlas_24"]);
+	this.initialize(ss["merry_shitmas_atlas_24"]);
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.rarmcopy2 = function() {
-	this.initialize(ss["help_barry_atlas_13"]);
+	this.initialize(ss["merry_shitmas_atlas_13"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -1868,7 +1868,7 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.timeline.addTween(cjs.Tween.get(this.text).wait(1).to({color:"#FF3300"},0).wait(1).to({color:"#000000",lineWidth:446},0).wait(1).to({lineWidth:678},0).wait(1));
 
 	// Layer_2
-	this.instance = new lib.CachedTexturedBitmap_224();
+	this.instance = new lib.CachedTexturedBitmap_252();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,1.0058,1.0058);
 
@@ -1897,7 +1897,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,682.4,262.4);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},1).to({state:[{t:this.instance_2}]},1).to({state:[{t:this.instance_3}]},1).wait(1));
 
 	// Layer_4
-	this.instance_4 = new lib.CachedTexturedBitmap_223();
+	this.instance_4 = new lib.CachedTexturedBitmap_251();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(0,-20,1.0058,1.0058);
 
@@ -1937,7 +1937,7 @@ p.nominalBounds = new cjs.Rectangle(0,-20,284.7,193);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.photo,p:{color:"#000000"}},{t:this.instance}]}).to({state:[{t:this.photo,p:{color:"#FF3300"}},{t:this.instance_1}]},1).to({state:[{t:this.photo,p:{color:"#000000"}},{t:this.instance_2}]},1).to({state:[{t:this.photo,p:{color:"#000000"}},{t:this.instance_3}]},1).wait(1));
 
 	// Layer_2
-	this.instance_4 = new lib.CachedTexturedBitmap_222();
+	this.instance_4 = new lib.CachedTexturedBitmap_250();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(-45.7,-5.95,1.0058,1.0058);
 
@@ -1976,7 +1976,7 @@ p.nominalBounds = new cjs.Rectangle(-45.7,-5.9,537.9,116);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance}]}).to({state:[{t:this.text,p:{color:"#FF3300"}},{t:this.instance_1}]},1).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance_2}]},1).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance_3}]},1).wait(1));
 
 	// Layer_2
-	this.instance_4 = new lib.CachedTexturedBitmap_221();
+	this.instance_4 = new lib.CachedTexturedBitmap_249();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(0,0,1.0058,1.0058);
 
@@ -2015,7 +2015,7 @@ p.nominalBounds = new cjs.Rectangle(-58,0,328.6,281.7);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance}]}).to({state:[{t:this.text,p:{color:"#FF3300"}},{t:this.instance_1}]},1).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance_2}]},1).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance_3}]},1).wait(1));
 
 	// Layer_2
-	this.instance_4 = new lib.CachedTexturedBitmap_220();
+	this.instance_4 = new lib.CachedTexturedBitmap_248();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(0,0,1.0058,1.0058);
 
@@ -2029,7 +2029,7 @@ p.nominalBounds = new cjs.Rectangle(-58,0,324.1,199.2);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_197();
+	this.instance = new lib.CachedTexturedBitmap_225();
 	this.instance.parent = this;
 	this.instance.setTransform(-49.85,-10.2,0.5,0.5);
 
@@ -2049,7 +2049,7 @@ p.nominalBounds = new cjs.Rectangle(-58,0,324.1,199.2);
 	this.text.parent = this;
 	this.text.setTransform(890.3,228.85);
 
-	this.instance = new lib.CachedTexturedBitmap_219();
+	this.instance = new lib.CachedTexturedBitmap_247();
 	this.instance.parent = this;
 	this.instance.setTransform(-114.05,-28,1.0058,1.0058);
 
@@ -2087,7 +2087,7 @@ p.nominalBounds = new cjs.Rectangle(-58,0,324.1,199.2);
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance}]}).to({state:[{t:this.text,p:{color:"#FF3300"}},{t:this.instance_1}]},1).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance_2}]},1).to({state:[{t:this.text,p:{color:"#000000"}},{t:this.instance_3}]},1).wait(1));
 
 	// Layer_2
-	this.instance_4 = new lib.CachedTexturedBitmap_218();
+	this.instance_4 = new lib.CachedTexturedBitmap_246();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(0,11.2,1.0058,1.0058);
 
@@ -2101,7 +2101,7 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_217();
+	this.instance = new lib.CachedTexturedBitmap_245();
 	this.instance.parent = this;
 	this.instance.setTransform(0,0,1.0058,1.0058);
 
@@ -2120,108 +2120,6 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 }).prototype = getMCSymbolPrototype(lib.rarm_copy_2_Layer_1, null, null);
-
-
-(lib.lightcopy27 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy27, new cjs.Rectangle(0,0,0,0), null);
-
-
-(lib.light_Layer_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.light();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_Layer_1, null, null);
-
-
-(lib.light_copy_28_Layer_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.lightcopy28();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_copy_28_Layer_1, null, null);
-
-
-(lib.light_Layer_1_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance_1 = new lib.lightcopy9();
-	this.instance_1.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_Layer_1_1, null, null);
-
-
-(lib.light_copy_Layer_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.lightcopy();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_copy_Layer_1, null, null);
-
-
-(lib.light_copy_26_Layer_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.lightcopy26();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_copy_26_Layer_1, null, null);
-
-
-(lib.light_copy_8_Layer_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.lightcopy8();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_copy_8_Layer_1, null, null);
-
-
-(lib.light_copy_5_Layer_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.lightcopy5();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_copy_5_Layer_1, null, null);
-
-
-(lib.light_copy_2_Layer_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1
-	this.instance = new lib.lightcopy2();
-	this.instance.parent = this;
-
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.light_copy_2_Layer_1, null, null);
 
 
 (lib.light_copy_24_Layer_1 = function(mode,startPosition,loop) {
@@ -2390,6 +2288,108 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 }).prototype = getMCSymbolPrototype(lib.light_copy_10_Layer_1, null, null);
+
+
+(lib.lightcopy27 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy27, new cjs.Rectangle(0,0,0,0), null);
+
+
+(lib.light_Layer_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.light();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_Layer_1, null, null);
+
+
+(lib.light_copy_28_Layer_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.lightcopy28();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_copy_28_Layer_1, null, null);
+
+
+(lib.light_Layer_1_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance_1 = new lib.lightcopy9();
+	this.instance_1.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_Layer_1_1, null, null);
+
+
+(lib.light_copy_Layer_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.lightcopy();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_copy_Layer_1, null, null);
+
+
+(lib.light_copy_26_Layer_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.lightcopy26();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_copy_26_Layer_1, null, null);
+
+
+(lib.light_copy_8_Layer_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.lightcopy8();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_copy_8_Layer_1, null, null);
+
+
+(lib.light_copy_5_Layer_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.lightcopy5();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_copy_5_Layer_1, null, null);
+
+
+(lib.light_copy_2_Layer_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.lightcopy2();
+	this.instance.parent = this;
+
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.light_copy_2_Layer_1, null, null);
 
 
 (lib.Layer_84_copy_5_Layer_1 = function(mode,startPosition,loop) {
@@ -4478,7 +4478,7 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Season_s____Greetings_
-	this.instance = new lib.CachedTexturedBitmap_216();
+	this.instance = new lib.CachedTexturedBitmap_244();
 	this.instance.parent = this;
 	this.instance.setTransform(-927.3,-570,1.0058,1.0058);
 	this.instance._off = true;
@@ -4492,7 +4492,7 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// from_Barry
-	this.instance = new lib.CachedTexturedBitmap_215();
+	this.instance = new lib.CachedTexturedBitmap_243();
 	this.instance.parent = this;
 	this.instance.setTransform(-806.7,-15.7,1.0058,1.0058);
 	this.instance._off = true;
@@ -4520,11 +4520,11 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// anim_psd
-	this.instance = new lib.CachedTexturedBitmap_214();
+	this.instance = new lib.CachedTexturedBitmap_242();
 	this.instance.parent = this;
 	this.instance.setTransform(-200.05,204.6,1.0058,1.0058);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_213();
+	this.instance_1 = new lib.CachedTexturedBitmap_241();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(55.95,-48.8,1.0058,1.0058);
 
@@ -4693,19 +4693,19 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_23
-	this.instance = new lib.CachedTexturedBitmap_212();
+	this.instance = new lib.CachedTexturedBitmap_240();
 	this.instance.parent = this;
 	this.instance.setTransform(870.7,76.5,1.0058,1.0058);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_211();
+	this.instance_1 = new lib.CachedTexturedBitmap_239();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(872.75,76.5,1.0058,1.0058);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_210();
+	this.instance_2 = new lib.CachedTexturedBitmap_238();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(888.75,107.05,1.0058,1.0058);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_209();
+	this.instance_3 = new lib.CachedTexturedBitmap_237();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(886.7,118.5,1.0058,1.0058);
 
@@ -4718,15 +4718,15 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_6
-	this.instance = new lib.CachedTexturedBitmap_208();
+	this.instance = new lib.CachedTexturedBitmap_236();
 	this.instance.parent = this;
 	this.instance.setTransform(901.65,218.6,1.0058,1.0058);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_207();
+	this.instance_1 = new lib.CachedTexturedBitmap_235();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(896.65,215.55,1.0058,1.0058);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_206();
+	this.instance_2 = new lib.CachedTexturedBitmap_234();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(895.65,210.6,1.0058,1.0058);
 
@@ -4895,7 +4895,7 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_2
-	this.instance = new lib.CachedTexturedBitmap_203();
+	this.instance = new lib.CachedTexturedBitmap_231();
 	this.instance.parent = this;
 	this.instance.setTransform(14.4,-321.6,1.0058,1.0058);
 
@@ -4938,23 +4938,23 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_2
-	this.instance = new lib.CachedTexturedBitmap_202();
+	this.instance = new lib.CachedTexturedBitmap_230();
 	this.instance.parent = this;
 	this.instance.setTransform(44.25,144,1.0058,1.0058);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_201();
+	this.instance_1 = new lib.CachedTexturedBitmap_229();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(48.2,50,1.0058,1.0058);
 
-	this.instance_2 = new lib.CachedTexturedBitmap_200();
+	this.instance_2 = new lib.CachedTexturedBitmap_228();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(42.2,52.05,1.0058,1.0058);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_199();
+	this.instance_3 = new lib.CachedTexturedBitmap_227();
 	this.instance_3.parent = this;
 	this.instance_3.setTransform(52.25,66,1.0058,1.0058);
 
-	this.instance_4 = new lib.CachedTexturedBitmap_198();
+	this.instance_4 = new lib.CachedTexturedBitmap_226();
 	this.instance_4.parent = this;
 	this.instance_4.setTransform(72.2,73.05,1.0058,1.0058);
 
@@ -5111,6 +5111,286 @@ p.nominalBounds = new cjs.Rectangle(-58,11,608.2,152.3);
 	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
 
 }).prototype = getMCSymbolPrototype(lib.rarmcopy2_1, new cjs.Rectangle(0,0,400,389), null);
+
+
+(lib.lightcopy24_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_24_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(260.5,404,1,1,0,0,0,260.5,404);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy24_1, new cjs.Rectangle(0,0,521,808), null);
+
+
+(lib.lightcopy23_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_23_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(171,412.5,1,1,0,0,0,171,412.5);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy23_1, new cjs.Rectangle(0,0,342,825), null);
+
+
+(lib.lightcopy22_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_22_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(225,403.5,1,1,0,0,0,225,403.5);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy22_1, new cjs.Rectangle(0,0,450,807), null);
+
+
+(lib.lightcopy21_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_21_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(169,464,1,1,0,0,0,169,464);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy21_1, new cjs.Rectangle(0,0,338,928), null);
+
+
+(lib.lightcopy20_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_20_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(186.5,466,1,1,0,0,0,186.5,466);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy20_1, new cjs.Rectangle(0,0,373,932), null);
+
+
+(lib.lightcopy19_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_19_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(185.5,465.5,1,1,0,0,0,185.5,465.5);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy19_1, new cjs.Rectangle(0,0,371,931), null);
+
+
+(lib.lightcopy18_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_18_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(170.5,401,1,1,0,0,0,170.5,401);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy18_1, new cjs.Rectangle(0,0,341,802), null);
+
+
+(lib.lightcopy16_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_16_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(260.5,463,1,1,0,0,0,260.5,463);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy16_1, new cjs.Rectangle(0,0,521,926), null);
+
+
+(lib.lightcopy15_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_15_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(260.5,404,1,1,0,0,0,260.5,404);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy15_1, new cjs.Rectangle(0,0,521,808), null);
+
+
+(lib.lightcopy14_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_14_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(244.5,405,1,1,0,0,0,244.5,405);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy14_1, new cjs.Rectangle(0,0,489,810), null);
+
+
+(lib.lightcopy13_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_13_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(272,403.5,1,1,0,0,0,272,403.5);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy13_1, new cjs.Rectangle(0,0,544,807), null);
+
+
+(lib.lightcopy12_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_12_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(261.5,404.5,1,1,0,0,0,261.5,404.5);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy12_1, new cjs.Rectangle(0,0,523,809), null);
+
+
+(lib.lightcopy11_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_11_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(257,411.5,1,1,0,0,0,257,411.5);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy11_1, new cjs.Rectangle(0,0,514,823), null);
+
+
+(lib.lightcopy10_1 = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1_obj_
+	this.Layer_1 = new lib.light_copy_10_Layer_1();
+	this.Layer_1.name = "Layer_1";
+	this.Layer_1.parent = this;
+	this.Layer_1.setTransform(248,403.5,1,1,0,0,0,248,403.5);
+	this.Layer_1.depth = 0;
+	this.Layer_1.isAttachedToCamera = 0
+	this.Layer_1.isAttachedToMask = 0
+	this.Layer_1.layerDepth = 0
+	this.Layer_1.layerIndex = 0
+	this.Layer_1.maskLayerName = 0
+
+	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
+
+}).prototype = getMCSymbolPrototype(lib.lightcopy10_1, new cjs.Rectangle(0,0,496,807), null);
 
 
 (lib.lightcopy28_1 = function(mode,startPosition,loop) {
@@ -5325,286 +5605,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,1034,305.1);
 }).prototype = getMCSymbolPrototype(lib.light_2, new cjs.Rectangle(0,0,206,388), null);
 
 
-(lib.lightcopy24_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_24_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(260.5,404,1,1,0,0,0,260.5,404);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy24_1, new cjs.Rectangle(0,0,521,808), null);
-
-
-(lib.lightcopy23_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_23_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(240,412.5,1,1,0,0,0,240,412.5);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy23_1, new cjs.Rectangle(0,0,480,825), null);
-
-
-(lib.lightcopy22_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_22_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(225,403.5,1,1,0,0,0,225,403.5);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy22_1, new cjs.Rectangle(0,0,450,807), null);
-
-
-(lib.lightcopy21_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_21_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(232.5,464,1,1,0,0,0,232.5,464);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy21_1, new cjs.Rectangle(0,0,465,928), null);
-
-
-(lib.lightcopy20_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_20_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(250,466,1,1,0,0,0,250,466);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy20_1, new cjs.Rectangle(0,0,500,932), null);
-
-
-(lib.lightcopy19_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_19_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(250,465.5,1,1,0,0,0,250,465.5);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy19_1, new cjs.Rectangle(0,0,500,931), null);
-
-
-(lib.lightcopy18_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_18_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(241.5,401,1,1,0,0,0,241.5,401);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy18_1, new cjs.Rectangle(0,0,483,802), null);
-
-
-(lib.lightcopy16_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_16_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(260.5,463,1,1,0,0,0,260.5,463);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy16_1, new cjs.Rectangle(0,0,521,926), null);
-
-
-(lib.lightcopy15_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_15_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(260.5,404,1,1,0,0,0,260.5,404);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy15_1, new cjs.Rectangle(0,0,521,808), null);
-
-
-(lib.lightcopy14_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_14_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(244.5,405,1,1,0,0,0,244.5,405);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy14_1, new cjs.Rectangle(0,0,489,810), null);
-
-
-(lib.lightcopy13_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_13_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(272,403.5,1,1,0,0,0,272,403.5);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy13_1, new cjs.Rectangle(0,0,544,807), null);
-
-
-(lib.lightcopy12_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_12_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(261.5,404.5,1,1,0,0,0,261.5,404.5);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy12_1, new cjs.Rectangle(0,0,523,809), null);
-
-
-(lib.lightcopy11_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_11_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(257,411.5,1,1,0,0,0,257,411.5);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy11_1, new cjs.Rectangle(0,0,514,823), null);
-
-
-(lib.lightcopy10_1 = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// Layer_1_obj_
-	this.Layer_1 = new lib.light_copy_10_Layer_1();
-	this.Layer_1.name = "Layer_1";
-	this.Layer_1.parent = this;
-	this.Layer_1.setTransform(248,403.5,1,1,0,0,0,248,403.5);
-	this.Layer_1.depth = 0;
-	this.Layer_1.isAttachedToCamera = 0
-	this.Layer_1.isAttachedToMask = 0
-	this.Layer_1.layerDepth = 0
-	this.Layer_1.layerIndex = 0
-	this.Layer_1.maskLayerName = 0
-
-	this.timeline.addTween(cjs.Tween.get(this.Layer_1).wait(1));
-
-}).prototype = getMCSymbolPrototype(lib.lightcopy10_1, new cjs.Rectangle(0,0,496,807), null);
-
-
 (lib.l3_light_copy_16 = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
@@ -5643,7 +5643,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,1034,305.1);
 
 	this.instance_8 = new lib.lightcopy23_1();
 	this.instance_8.parent = this;
-	this.instance_8.setTransform(271.05,519.5,1,1,0,0,0,240,412.5);
+	this.instance_8.setTransform(411.05,519.5,1,1,0,0,0,240,412.5);
 
 	this.instance_9 = new lib.lightcopy22_1();
 	this.instance_9.parent = this;
@@ -5651,19 +5651,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,1034,305.1);
 
 	this.instance_10 = new lib.lightcopy21_1();
 	this.instance_10.parent = this;
-	this.instance_10.setTransform(263.55,468,1,1,0,0,0,232.5,464);
+	this.instance_10.setTransform(391.5,468,1,1,0,0,0,232.5,464);
 
 	this.instance_11 = new lib.lightcopy20_1();
 	this.instance_11.parent = this;
-	this.instance_11.setTransform(281.05,466,1,1,0,0,0,250,466);
+	this.instance_11.setTransform(409,466,1,1,0,0,0,250,466);
 
 	this.instance_12 = new lib.lightcopy19_1();
 	this.instance_12.parent = this;
-	this.instance_12.setTransform(281.05,466.5,1,1,0,0,0,250,465.5);
+	this.instance_12.setTransform(413.05,466.5,1,1,0,0,0,250,465.5);
 
 	this.instance_13 = new lib.lightcopy18_1();
 	this.instance_13.parent = this;
-	this.instance_13.setTransform(272.55,531,1,1,0,0,0,241.5,401);
+	this.instance_13.setTransform(416.5,531,1,1,0,0,0,241.5,401);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance}]}).to({state:[{t:this.instance_1}]},5).to({state:[{t:this.instance_2}]},5).to({state:[{t:this.instance_3}]},5).to({state:[{t:this.instance_4}]},5).to({state:[{t:this.instance_5}]},5).to({state:[{t:this.instance_6}]},5).to({state:[{t:this.instance_7}]},86).to({state:[{t:this.instance_8}]},5).to({state:[{t:this.instance_9}]},5).to({state:[{t:this.instance_10}]},5).to({state:[{t:this.instance_11}]},5).to({state:[{t:this.instance_12}]},5).to({state:[{t:this.instance_13}]},5).wait(5));
 
@@ -11685,7 +11685,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,278);
 
 
 // stage content:
-(lib.help_barry = function(mode,startPosition,loop) {
+(lib.merry_shitmas = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	this.___GetDepth___ = function(obj) {
@@ -12882,7 +12882,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,217,278);
 p.nominalBounds = new cjs.Rectangle(430.2,259.8,818.3999999999999,437.90000000000003);
 // library properties:
 lib.properties = {
-	id: '868D4BF2BA074C8F91DD74614D48CE81',
+	id: 'E36A843E40CF4DFE8CEACAB264173B50',
 	width: 960,
 	height: 540,
 	fps: 24,
@@ -12903,11 +12903,11 @@ lib.properties = {
 		{src:"images/bodycopy6.png", id:"bodycopy6"},
 		{src:"images/bodycopy7.png", id:"bodycopy7"},
 		{src:"images/bodycopy8.png", id:"bodycopy8"},
-		{src:"images/CachedTexturedBitmap_197.png", id:"CachedTexturedBitmap_197"},
-		{src:"images/CachedTexturedBitmap_213.png", id:"CachedTexturedBitmap_213"},
-		{src:"images/CachedTexturedBitmap_214.png", id:"CachedTexturedBitmap_214"},
-		{src:"images/CachedTexturedBitmap_216.png", id:"CachedTexturedBitmap_216"},
-		{src:"images/CachedTexturedBitmap_219.png", id:"CachedTexturedBitmap_219"},
+		{src:"images/CachedTexturedBitmap_225.png", id:"CachedTexturedBitmap_225"},
+		{src:"images/CachedTexturedBitmap_241.png", id:"CachedTexturedBitmap_241"},
+		{src:"images/CachedTexturedBitmap_242.png", id:"CachedTexturedBitmap_242"},
+		{src:"images/CachedTexturedBitmap_244.png", id:"CachedTexturedBitmap_244"},
+		{src:"images/CachedTexturedBitmap_247.png", id:"CachedTexturedBitmap_247"},
 		{src:"images/cazzo1.png", id:"cazzo1"},
 		{src:"images/Layer11copy.png", id:"Layer11copy"},
 		{src:"images/Layer11copy2.png", id:"Layer11copy2"},
@@ -12980,36 +12980,36 @@ lib.properties = {
 		{src:"images/lightcopy4.png", id:"lightcopy4"},
 		{src:"images/lightcopy5.png", id:"lightcopy5"},
 		{src:"images/lightcopy6.png", id:"lightcopy6"},
-		{src:"images/help_barry_atlas_.png", id:"help_barry_atlas_"},
-		{src:"images/help_barry_atlas_2.png", id:"help_barry_atlas_2"},
-		{src:"images/help_barry_atlas_3.png", id:"help_barry_atlas_3"},
-		{src:"images/help_barry_atlas_4.png", id:"help_barry_atlas_4"},
-		{src:"images/help_barry_atlas_5.png", id:"help_barry_atlas_5"},
-		{src:"images/help_barry_atlas_6.png", id:"help_barry_atlas_6"},
-		{src:"images/help_barry_atlas_7.png", id:"help_barry_atlas_7"},
-		{src:"images/help_barry_atlas_8.png", id:"help_barry_atlas_8"},
-		{src:"images/help_barry_atlas_9.png", id:"help_barry_atlas_9"},
-		{src:"images/help_barry_atlas_10.png", id:"help_barry_atlas_10"},
-		{src:"images/help_barry_atlas_11.png", id:"help_barry_atlas_11"},
-		{src:"images/help_barry_atlas_12.png", id:"help_barry_atlas_12"},
-		{src:"images/help_barry_atlas_13.png", id:"help_barry_atlas_13"},
-		{src:"images/help_barry_atlas_14.png", id:"help_barry_atlas_14"},
-		{src:"images/help_barry_atlas_15.png", id:"help_barry_atlas_15"},
-		{src:"images/help_barry_atlas_16.png", id:"help_barry_atlas_16"},
-		{src:"images/help_barry_atlas_17.png", id:"help_barry_atlas_17"},
-		{src:"images/help_barry_atlas_18.png", id:"help_barry_atlas_18"},
-		{src:"images/help_barry_atlas_19.png", id:"help_barry_atlas_19"},
-		{src:"images/help_barry_atlas_20.png", id:"help_barry_atlas_20"},
-		{src:"images/help_barry_atlas_21.png", id:"help_barry_atlas_21"},
-		{src:"images/help_barry_atlas_22.png", id:"help_barry_atlas_22"},
-		{src:"images/help_barry_atlas_23.png", id:"help_barry_atlas_23"},
-		{src:"images/help_barry_atlas_24.png", id:"help_barry_atlas_24"},
-		{src:"images/help_barry_atlas_25.png", id:"help_barry_atlas_25"},
-		{src:"images/help_barry_atlas_26.png", id:"help_barry_atlas_26"},
-		{src:"images/help_barry_atlas_27.png", id:"help_barry_atlas_27"},
-		{src:"images/help_barry_atlas_28.png", id:"help_barry_atlas_28"},
-		{src:"images/help_barry_atlas_29.png", id:"help_barry_atlas_29"},
-		{src:"images/help_barry_atlas_30.png", id:"help_barry_atlas_30"}
+		{src:"images/merry_shitmas_atlas_.png", id:"merry_shitmas_atlas_"},
+		{src:"images/merry_shitmas_atlas_2.png", id:"merry_shitmas_atlas_2"},
+		{src:"images/merry_shitmas_atlas_3.png", id:"merry_shitmas_atlas_3"},
+		{src:"images/merry_shitmas_atlas_4.png", id:"merry_shitmas_atlas_4"},
+		{src:"images/merry_shitmas_atlas_5.png", id:"merry_shitmas_atlas_5"},
+		{src:"images/merry_shitmas_atlas_6.png", id:"merry_shitmas_atlas_6"},
+		{src:"images/merry_shitmas_atlas_7.png", id:"merry_shitmas_atlas_7"},
+		{src:"images/merry_shitmas_atlas_8.png", id:"merry_shitmas_atlas_8"},
+		{src:"images/merry_shitmas_atlas_9.png", id:"merry_shitmas_atlas_9"},
+		{src:"images/merry_shitmas_atlas_10.png", id:"merry_shitmas_atlas_10"},
+		{src:"images/merry_shitmas_atlas_11.png", id:"merry_shitmas_atlas_11"},
+		{src:"images/merry_shitmas_atlas_12.png", id:"merry_shitmas_atlas_12"},
+		{src:"images/merry_shitmas_atlas_13.png", id:"merry_shitmas_atlas_13"},
+		{src:"images/merry_shitmas_atlas_14.png", id:"merry_shitmas_atlas_14"},
+		{src:"images/merry_shitmas_atlas_15.png", id:"merry_shitmas_atlas_15"},
+		{src:"images/merry_shitmas_atlas_16.png", id:"merry_shitmas_atlas_16"},
+		{src:"images/merry_shitmas_atlas_17.png", id:"merry_shitmas_atlas_17"},
+		{src:"images/merry_shitmas_atlas_18.png", id:"merry_shitmas_atlas_18"},
+		{src:"images/merry_shitmas_atlas_19.png", id:"merry_shitmas_atlas_19"},
+		{src:"images/merry_shitmas_atlas_20.png", id:"merry_shitmas_atlas_20"},
+		{src:"images/merry_shitmas_atlas_21.png", id:"merry_shitmas_atlas_21"},
+		{src:"images/merry_shitmas_atlas_22.png", id:"merry_shitmas_atlas_22"},
+		{src:"images/merry_shitmas_atlas_23.png", id:"merry_shitmas_atlas_23"},
+		{src:"images/merry_shitmas_atlas_24.png", id:"merry_shitmas_atlas_24"},
+		{src:"images/merry_shitmas_atlas_25.png", id:"merry_shitmas_atlas_25"},
+		{src:"images/merry_shitmas_atlas_26.png", id:"merry_shitmas_atlas_26"},
+		{src:"images/merry_shitmas_atlas_27.png", id:"merry_shitmas_atlas_27"},
+		{src:"images/merry_shitmas_atlas_28.png", id:"merry_shitmas_atlas_28"},
+		{src:"images/merry_shitmas_atlas_29.png", id:"merry_shitmas_atlas_29"},
+		{src:"images/merry_shitmas_atlas_30.png", id:"merry_shitmas_atlas_30"}
 	],
 	preloads: []
 };
@@ -13047,7 +13047,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['868D4BF2BA074C8F91DD74614D48CE81'] = {
+an.compositions['E36A843E40CF4DFE8CEACAB264173B50'] = {
 	getStage: function() { return exportRoot.getStage(); },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
